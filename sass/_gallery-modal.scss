@@ -47,10 +47,10 @@
         }
     }
     &__previus{
-        @include mixins.image-btn(190px, -15px,true)
+        @include mixins.image-btn(190px, -15px, true)
     }
     &__next{
-        @include mixins.image-btn(190px, 520px,true)
+        @include mixins.image-btn(190px, 520px, true)
     }
 
 }

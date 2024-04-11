@@ -353,7 +353,7 @@ body {
   padding: 24px;
   border-bottom: 1px solid hsl(220, 14%, 75%);
 }
-.cart-modal__chekout-container {
+.cart-modal__checkout-container {
   padding: 24px;
 }
 .cart-modal__details-container {
@@ -496,6 +496,17 @@ body {
     padding: 90px 50px;
     gap: 124px;
   }
+}
+
+.show {
+  display: block;
+}
+
+.cart-empty {
+  font-weight: 700;
+  color: hsla(0, 0%, 0%, 0.5);
+  text-align: center;
+  margin-top: 30px;
 }
 
 /*# sourceMappingURL=styles.css.map */
